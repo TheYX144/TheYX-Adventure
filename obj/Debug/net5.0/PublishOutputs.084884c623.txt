@@ -1,0 +1,5 @@
+C:\Users\skele\OneDrive\Desktop\TheYX Adventure\bin\Debug\net5.0\publish\TheYX Adventure.exe
+C:\Users\skele\OneDrive\Desktop\TheYX Adventure\bin\Debug\net5.0\publish\TheYX Adventure.dll
+C:\Users\skele\OneDrive\Desktop\TheYX Adventure\bin\Debug\net5.0\publish\TheYX Adventure.deps.json
+C:\Users\skele\OneDrive\Desktop\TheYX Adventure\bin\Debug\net5.0\publish\TheYX Adventure.runtimeconfig.json
+C:\Users\skele\OneDrive\Desktop\TheYX Adventure\bin\Debug\net5.0\publish\TheYX Adventure.pdb

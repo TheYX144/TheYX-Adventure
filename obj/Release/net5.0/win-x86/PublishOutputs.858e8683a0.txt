@@ -1,0 +1,6 @@
+C:\Users\skele\OneDrive\Desktop\TheYX Adventure\bin\Release\net5.0\publish\TheYX Adventure.pdb
+C:\Users\skele\OneDrive\Desktop\TheYX Adventure\bin\Release\net5.0\publish\clrcompression.dll
+C:\Users\skele\OneDrive\Desktop\TheYX Adventure\bin\Release\net5.0\publish\clrjit.dll
+C:\Users\skele\OneDrive\Desktop\TheYX Adventure\bin\Release\net5.0\publish\coreclr.dll
+C:\Users\skele\OneDrive\Desktop\TheYX Adventure\bin\Release\net5.0\publish\mscordaccore.dll
+C:\Users\skele\OneDrive\Desktop\TheYX Adventure\bin\Release\net5.0\publish\TheYX Adventure.exe

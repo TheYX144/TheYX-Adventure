@@ -1,0 +1,16 @@
+C:\Users\skele\OneDrive\Desktop\TheYX Adventure\bin\Release\net5.0\TheYX Adventure.exe
+C:\Users\skele\OneDrive\Desktop\TheYX Adventure\bin\Release\net5.0\TheYX Adventure.deps.json
+C:\Users\skele\OneDrive\Desktop\TheYX Adventure\bin\Release\net5.0\TheYX Adventure.runtimeconfig.json
+C:\Users\skele\OneDrive\Desktop\TheYX Adventure\bin\Release\net5.0\TheYX Adventure.runtimeconfig.dev.json
+C:\Users\skele\OneDrive\Desktop\TheYX Adventure\bin\Release\net5.0\TheYX Adventure.dll
+C:\Users\skele\OneDrive\Desktop\TheYX Adventure\bin\Release\net5.0\ref\TheYX Adventure.dll
+C:\Users\skele\OneDrive\Desktop\TheYX Adventure\bin\Release\net5.0\TheYX Adventure.pdb
+C:\Users\skele\OneDrive\Desktop\TheYX Adventure\obj\Release\net5.0\TheYX Adventure.csproj.AssemblyReference.cache
+C:\Users\skele\OneDrive\Desktop\TheYX Adventure\obj\Release\net5.0\TheYX Adventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skele\OneDrive\Desktop\TheYX Adventure\obj\Release\net5.0\TheYX Adventure.AssemblyInfoInputs.cache
+C:\Users\skele\OneDrive\Desktop\TheYX Adventure\obj\Release\net5.0\TheYX Adventure.AssemblyInfo.cs
+C:\Users\skele\OneDrive\Desktop\TheYX Adventure\obj\Release\net5.0\TheYX Adventure.csproj.CoreCompileInputs.cache
+C:\Users\skele\OneDrive\Desktop\TheYX Adventure\obj\Release\net5.0\TheYX Adventure.dll
+C:\Users\skele\OneDrive\Desktop\TheYX Adventure\obj\Release\net5.0\ref\TheYX Adventure.dll
+C:\Users\skele\OneDrive\Desktop\TheYX Adventure\obj\Release\net5.0\TheYX Adventure.pdb
+C:\Users\skele\OneDrive\Desktop\TheYX Adventure\obj\Release\net5.0\TheYX Adventure.genruntimeconfig.cache

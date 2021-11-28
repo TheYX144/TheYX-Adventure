@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cX9iB1MTJ34CcYWHUY5f0O1SFnkN215lUGUVR1eu0qvZoxONEAHUU1j5OZgx48jtuuZGG/oaIEkQaiZVqQ6a1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skele\\OneDrive\\Desktop\\TheYX Adventure\\TheYX Adventure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skele\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\5.0.12\\microsoft.netcore.app.runtime.win-x86.5.0.12.nupkg.sha512",
+    "C:\\Users\\skele\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\5.0.12\\microsoft.windowsdesktop.app.runtime.win-x86.5.0.12.nupkg.sha512",
+    "C:\\Users\\skele\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\5.0.12\\microsoft.aspnetcore.app.runtime.win-x86.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
